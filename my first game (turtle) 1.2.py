@@ -86,3 +86,4 @@ else:
     print("YOU LOOSE")
 print(TARGET_WIDTH, TARGET_LLEFT_X)
 done()
+print('hello world')
